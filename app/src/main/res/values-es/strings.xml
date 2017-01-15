@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WikiMusic</string>
+    <string name="search">Buscar</string>
+    <string name="search_tip">Artistas, álbums o canciones</string>
+    <string name="album">Álbum</string>
+    <string name="artist">Artista</string>
+    <string name="track">Canción</string>
+    <string name="scrobbles">Scrobblings</string>
+    <string name="listeners">Oyentes</string>
+    <string name="duration">Duración</string>
+    <string name="error_searching">Error: No se ha podido cargar algunos resultados</string>
+    <string name="more">Más...</string>
+    <string name="no_preview">No hay vista previa :(</string>
+</resources>
